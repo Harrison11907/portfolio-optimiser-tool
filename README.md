@@ -12,7 +12,6 @@ An interactive Python application for exploring portfolio risk, optimising asset
 - Compare buy-and-hold performance against an equal-weight portfolio.
 - Display portfolio allocations, risk-return charts, test-period returns, and maximum drawdown.
 
-# How it works
 
 # Screenshots
 
@@ -30,6 +29,8 @@ An interactive Python application for exploring portfolio risk, optimising asset
 
 ### Backtest performance
 ![Performance during test and backtest results](images/Performance%20during%20test%20and%20backtest%20reults.png)
+
+# How it works
 
 The app splits historical returns chronologically into training and test periods.
 
