@@ -14,6 +14,23 @@ An interactive Python application for exploring portfolio risk, optimising asset
 
 # How it works
 
+# Screenshots
+
+### Asset selection and settings
+![Asset selection and settings](images/Analysis%20settings.png)
+
+### Analysis settings and latest prices
+![Analysis settings and latest closing prices](images/Analysis%20settings%20and%20latest%20closing%20prices.png)
+
+### Training statistics and portfolio weights
+![Training period stats and optimised portfolios](images/Training%20period%20stats%20and%20optimised%20portfolios.png)
+
+### Monte Carlo simulation
+![Monte Carlo results](images/Monte%20carlo%20reults.png)
+
+### Backtest performance
+![Performance during test and backtest results](images/Performance%20during%20test%20and%20backtest%20reults.png)
+
 The app splits historical returns chronologically into training and test periods.
 
 Training data is used to estimate annualised returns and covariance, simulate portfolios, and optimise allocations. Portfolio weights must total 100%, with no short selling.
